@@ -1,5 +1,6 @@
 ---
-title: "Our website"
+title: "My Website"
+author: "Britney Pepper"
 output: html_document
 date: "2024-09-10"
 ---
